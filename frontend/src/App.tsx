@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Estilos
-import "./styles/global.css";
+import "./assets/style/global.css";
 
 // Rotas da Aplicação
 import Routes from './routes'

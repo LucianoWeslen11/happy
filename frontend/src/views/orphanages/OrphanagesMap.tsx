@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom';
 import { Map, TileLayer } from 'react-leaflet';
 
 // Estilos
-import '../styles/pages/orphanages-map.css';
+import './orphanages-map.css';
 import 'leaflet/dist/leaflet.css';
 
 // Imagens
-import mapMarkerImg from '../images/map-marker.svg';
+import mapMarkerImg from '../../assets/images/map-marker.svg';
 
 // Icones
 import { FiPlus } from 'react-icons/fi';
@@ -32,7 +32,7 @@ function OrphanagesMap() {
         style={{ width: "100%", height: "100%" }}
       >
         <TileLayer
-          url={`https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_MAPBOX_TOKEN}`}
+          url={`https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_MAPBOX_TOKEN}`}
         />
 
       </Map>

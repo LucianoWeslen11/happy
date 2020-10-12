@@ -2,8 +2,8 @@ import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 // Componentes
-import Landing from './pages/Landing';
-import OrphanagesMap from './pages/OrphanagesMap';
+import Landing from './views/landing/Landing';
+import OrphanagesMap from './views/orphanages/OrphanagesMap';
 
 function Routes() {
   return (
