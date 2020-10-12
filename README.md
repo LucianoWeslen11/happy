@@ -22,10 +22,10 @@
 ## ❓ Sobre o projeto
 Aplicação criada o evento **Next Level Week** na sua 3° edição, oferecido pela **Rockeseat**. O projeto visa a implementação de uma plataforma que facilite o encontro de orfanatos por pessoas querem visita-los. O objetivo principal da visita é mudar o dia de uma criança. Que tal levar um pouco de felicidade para o mundo?  
 
-## ⏳ Overview
-- [ ] [Backend](https://github.com/LucianoWeslen11/happye)
-- [ ] [Frontend](https://github.com/LucianoWeslen11/happy)
-- [ ] [Mobile](https://github.com/LucianoWeslen11/happy)
+## ⏳ Organização do projeto
+- [ ] [Frontend](https://github.com/LucianoWeslen11/happy/tree/master/frontend)
+- [ ] Backend
+- [ ] Mobile
 
 ## 👨‍💻 Feito por
 <table>
