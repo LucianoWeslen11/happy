@@ -43,7 +43,7 @@ Primeiro crie um arquivo com nome `.env`, nele coloque o token do [MapBox](https
 ```bash
 REACT_APP_MAPBOX_TOKEN = YOUR_TOKEN
 ```
-Para instalar as dependências que o frontend precisa rode o comando:
+Para instalar as dependências que o frontend rode o comando:
 ```bash
 yarn install
 ```
