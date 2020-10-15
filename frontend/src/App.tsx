@@ -1,7 +1,8 @@
 import React from 'react';
 
 // Estilos
-import "./assets/style/global.css";
+import "./styles/Global.css";
+import 'leaflet/dist/leaflet.css';
 
 // Rotas da Aplicação
 import Routes from './routes'

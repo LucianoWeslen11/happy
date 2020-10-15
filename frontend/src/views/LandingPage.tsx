@@ -2,10 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 // Estilos
-import "./landing.css";
+import "../styles/views/LandingPage.css";
 
 // Imagens
-import logoImg from "../../assets/images/logo.svg";
+import logoImg from "../assets/images/logo.svg";
 
 // Icones
 import { FiArrowRight } from 'react-icons/fi'
