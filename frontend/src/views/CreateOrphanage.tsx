@@ -37,7 +37,7 @@ export default function CreateOrphanage() {
       return;
     }
 
-    const selectedImages = Array.from(event.target.files)
+    const selectedImages = images.concat(Array.from(event.target.files))
 
     setImages(selectedImages);
 
@@ -72,9 +72,13 @@ export default function CreateOrphanage() {
     history.push("/app");
   }
 
-  function removeImage(index: number) {
-    setImages(images.splice(index));
-    setPreviewImages(previewImages.splice(index));
+  function removeImage(deletedImage: string) {
+    setImages(images.filter((image) => {
+      return image.name !== deletedImage;
+    }))
+    setPreviewImages(previewImages.filter((image) => {
+      return image !== deletedImage;
+    }))
   }
 
   return (
@@ -133,7 +137,7 @@ export default function CreateOrphanage() {
                     <div key={image} className="image">
                       <button
                         type="button"
-                        onClick={() => removeImage(index)}
+                        onClick={() => removeImage(image)}
                       >
                         <FiX size={24} color="#FF669D" />
                       </button>

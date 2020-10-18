@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/typescript-sdk39.0.3-FFD666?style=for-the-badge" alt="Typescript" />
+      <img src="https://img.shields.io/badge/typescript-v3.9.5-FFD666?style=for-the-badge" alt="Typescript" />
     </td>
   </tr>
 </table>
