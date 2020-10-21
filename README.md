@@ -15,6 +15,7 @@
 
 ## 📓 Resumo
 - [Sobre o projeto](#sobre-o-projeto)
+- [Overview](#overview)
 - [Organização do projeto](#organização-do-projeto)
 - [Feito por](#feito-por)
 - [License](#license)
@@ -22,10 +23,15 @@
 ## ❓ Sobre o projeto
 Aplicação criada o evento **Next Level Week** na sua 3° edição, oferecido pela **Rockeseat**. O projeto visa a implementação de uma plataforma que facilite o encontro de orfanatos por pessoas querem visita-los. O objetivo principal da visita é mudar o dia de uma criança. Que tal levar um pouco de felicidade para o mundo?  
 
+## 🚀 Overview
+<div align="center">
+  <img src=".github/assets/overview.png" alt="Frontend" />
+</div>
+
 ## ⏳ Organização do projeto
-- [ ] [Frontend](https://github.com/LucianoWeslen11/happy/tree/master/frontend)
-- [ ] Backend
-- [ ] Mobile
+- [x] [Frontend](https://github.com/LucianoWeslen11/happy/tree/master/frontend)
+- [x] [Backend](https://github.com/LucianoWeslen11/happy/tree/master/backend)
+- [x] [Mobile](https://github.com/LucianoWeslen11/happy/tree/master/mobile)
 
 ## 👨‍💻 Feito por
 <table>
@@ -37,4 +43,9 @@ Aplicação criada o evento **Next Level Week** na sua 3° edição, oferecido p
 ## 📜 License
 O projeto está sobre a licença [MIT](./LICENSE)
 
->Aproveite todos os momentos 🧡
+<br/>
+<br/>
+
+![](https://img.shields.io/badge/Nunca%20esque%C3%A7a%20de-aproveitar%20todos%20os%20momentos-informational?style=for-the-badge&logo=quote&logoColor=white&color=f4a261)
+
+🧡
