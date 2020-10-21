@@ -5,12 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-9466FF?style=for-the-badge" alt="Next Level Week #3" />
   <img src="https://img.shields.io/badge/evento%20da-rockeseat-9466FF?style=for-the-badge" alt="Next Level Week #3" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/frontend%3F-não-FFD666?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/backend%3F-não-FFD666?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/mobile%20%3F-não-FFD666?style=for-the-badge" alt="Aplicativo mobile No" />
+  <img src="https://img.shields.io/badge/Versão%3F-1.0.0-FFD666?style=for-the-badge" alt="Frontend" />
 </div>
 
 ## 📓 Resumo
